@@ -1,5 +1,5 @@
-#Hermes App
-Used to benchmark reflexes
+# Hermes App
+App benchmarking human eye-hand reflexes and coordination
 
 
 
